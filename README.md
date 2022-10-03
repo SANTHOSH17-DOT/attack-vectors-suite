@@ -1,18 +1,34 @@
-# attack-vectors-suite
-This repository contains a collection of cybersecurity attack vectors.  I firmly believe that the **Best way to learn is to do it**
 
-## Contributing
+# Attack Vectors Suite
 
-Contributions are always welcome!
 
-Create a new directory for the next attack vector.
+### _What is an Attack Vector?_
 
-See `CONTRIBUTING.md` for ways to get started.
+>In cybersecurity, an attack vector is a method of achieving unauthorized network access to launch a cyber attack. Attack vectors allow cybercriminals to exploit system vulnerabilities to gain access to sensitive data, personally identifiable information (PII), and other valuable information accessible after a data breach.
 
-Please adhere to this project's `CODE_OF_CONDUCT.md`.
+The most common attack vectors include malware, viruses, email attachments, web pages, pop-ups, instant messages, text messages, and social engineering. However, the number of cyber threats continues to grow as cybercriminals look to exploit unpatched or zero-day vulnerabilities listed on CVE and the dark web, as there is no single solution for preventing every attack vector.
 
-## License
+### _Purpose of this Project_ :
+This repository contains a collection of cybersecurity attack vectors. I firmly believe that the best way to learn something is to do it & all my experiments with a particular attack vector have been documented in this repo.
 
-[MIT](https://choosealicense.com/licenses/mit/)
+### ✨Contributions✨ :
 
-**FOR EDUCTIONAL PURPOSE ONLY**
+- Contributions are always welcome!
+
+- Create a new directory for the next attack vector.
+
+- See CONTRIBUTING.md for ways to get started.
+
+- Please adhere to this project's CODE_OF_CONDUCT.md.
+
+
+
+
+
+
+
+
+
+
+
+  
