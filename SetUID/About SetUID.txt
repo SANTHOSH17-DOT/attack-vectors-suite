@@ -1,0 +1,14 @@
+Set-UID Concept
+• Allow user to run a program with the program owner’s privilege.
+• Allow users to run programs with temporary elevated privileges
+• Example: the passwd program
+$ ls -l /usr/bin/passwd
+-rwsr-xr-x 1 root root 41284 Sep 12 2012 /usr/bin/passwd
+Every process has two User IDs.
+• Real UID (RUID): Identifies real owner of process
+• Effective UID (EUID): Identifies privilege of a process
+• Access control is based on EUID
+• When a normal program is executed, RUID = EUID, they both equal
+to the ID of the user who runs the program
+• When a Set-UID is executed, RUID ≠ EUID. RUID still equal to the
+user’s ID, but EUID equals to the program owner’s ID.
