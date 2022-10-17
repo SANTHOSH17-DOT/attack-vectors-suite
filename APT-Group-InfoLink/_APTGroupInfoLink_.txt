@@ -1,5 +1,0 @@
-https://www.fireeye.com/current-threats/apt-groups.html
-
-https://apt.securelist.com/#!/threats/
-
-https://dragos.com/adversaries.html
