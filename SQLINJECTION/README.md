@@ -7,3 +7,7 @@ By taking advantage of programme flaws, SQL Injection attacks (also known as SQL
 - Steal credentials - Through SQLi, attackers can gain credentials, which they can then use to pose as users and access resources.
 - Access databases - Attackers can access the private information stored on database servers.
 - Delete data: Attackers are able to dump entire tables or delete database records.
+
+![image](https://user-images.githubusercontent.com/83408515/199063080-b4d3492b-9a86-489c-9190-8454ffe38684.png)
+
+![WhatsApp Image 2022-10-31 at 22 02 35](https://user-images.githubusercontent.com/83408515/199063152-990d61f0-721a-4988-a79f-c17498518dee.jpeg)
