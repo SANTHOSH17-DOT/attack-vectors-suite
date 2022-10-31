@@ -10,4 +10,9 @@ By taking advantage of programme flaws, SQL Injection attacks (also known as SQL
 
 ![image](https://user-images.githubusercontent.com/83408515/199063080-b4d3492b-9a86-489c-9190-8454ffe38684.png)
 
-![WhatsApp Image 2022-10-31 at 22 02 35](https://user-images.githubusercontent.com/83408515/199063152-990d61f0-721a-4988-a79f-c17498518dee.jpeg)
+![WhatsApp Image 2022-10-31 at 22 02 35](https://user-images.githubusercontent.com/83408515/199063152-990d61f0-721a-4988-a79f-c17498518dee.jpeg)tment 
+
+So this can excute statement by statement and drops the database in the second statement if following is passed in the input box
+
+![image](https://user-images.githubusercontent.com/83408515/199066647-bc7cc8d9-b801-41ac-ab99-31698dd9f3d1.png)
+
