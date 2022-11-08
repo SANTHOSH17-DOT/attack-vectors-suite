@@ -11,6 +11,24 @@ The most common attack vectors include malware, viruses, email attachments, web 
 ### _Purpose of this Project_ :
 This repository contains a collection of cybersecurity attack vectors. I firmly believe that the best way to learn something is to do it & all my experiments with a particular attack vector have been documented in this repo.
 
+### Suggestions :
+- Worm
+- Trojans
+- Email phishing 
+- Creeper ransomware
+- Keylogger
+- Root kit
+- Botnets
+- Maggie
+- Gtbotnet
+- I love u 2000 blaster sasser
+- Code red
+- MyDoom
+- Cool web search
+- Webshell
+- Browser locker
+- Highjacking cookies
+
 ### ✨Contributions✨ :
 
 - Contributions are always welcome!
