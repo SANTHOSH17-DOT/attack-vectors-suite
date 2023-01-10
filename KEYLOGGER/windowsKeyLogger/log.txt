@@ -1,0 +1,82 @@
+Date - 2023-01-10 18:59:21.306826 | Timestamp - 1673369961
+Window - New Tab - Brave
+Keys - 
+
+
+Date - 2023-01-10 18:59:57.065551 | Timestamp - 1673369997
+Window - Google - Brave
+Keys - 
+g | 34 | 1673369961
+o | 24 | 1673369963
+o | 24 | 1673369963
+g | 34 | 1673369964
+l | 38 | 1673369964
+e | 18 | 1673369965
+enter | 28 | 1673369974
+g, o, o, g, l, e, enter
+Date - 2023-01-10 19:00:39.779892 | Timestamp - 1673370040
+Window - C:\Windows\system32\cmd.exe
+Keys - 
+backspace | 14 | 1673369997
+a | 30 | 1673370002
+p | 25 | 1673370002
+p | 25 | 1673370002
+l | 38 | 1673370002
+e | 18 | 1673370002
+enter | 28 | 1673370006
+backspace, a, p, p, l, e, enter
+Date - 2023-01-10 19:00:41.327821 | Timestamp - 1673370041
+Window - Run
+Keys - 
+left windows | 91 | 1673370040
+r | 19 | 1673370040
+left windows, r
+Date - 2023-01-10 19:00:43.879173 | Timestamp - 1673370044
+Window - C:\Windows\system32\cmd.exe
+Keys - 
+enter | 28 | 1673370041
+enter
+Date - 2023-01-10 19:01:45.345885 | Timestamp - 1673370105
+Window - Public
+Keys - 
+c | 46 | 1673370044
+d | 32 | 1673370044
+space | 57 | 1673370044
+d | 32 | 1673370048
+o | 24 | 1673370048
+c | 46 | 1673370048
+tab | 15 | 1673370049
+enter | 28 | 1673370054
+c | 46 | 1673370054
+d | 32 | 1673370054
+space | 57 | 1673370055
+e | 18 | 1673370055
+n | 49 | 1673370055
+e | 18 | 1673370055
+backspace | 14 | 1673370056
+tab | 15 | 1673370056
+enter | 28 | 1673370057
+c | 46 | 1673370057
+d | 32 | 1673370058
+space | 57 | 1673370058
+a | 30 | 1673370059
+t | 20 | 1673370060
+t | 20 | 1673370060
+tab | 15 | 1673370060
+enter | 28 | 1673370061
+c | 46 | 1673370062
+d | 32 | 1673370062
+space | 57 | 1673370063
+s | 31 | 1673370063
+c | 46 | 1673370063
+t | 20 | 1673370064
+backspace | 14 | 1673370064
+tab | 15 | 1673370064
+enter | 28 | 1673370065
+a | 30 | 1673370067
+backspace | 14 | 1673370068
+d | 32 | 1673370068
+e | 18 | 1673370068
+tab | 15 | 1673370069
+enter | 28 | 1673370070
+c, d, space, d, o, c, tab, enter, c, d, space, e, n, e, backspace, tab, enter, c, d, space, a, t, t, tab, enter, c, d, space, s, c, t, backspace, tab, enter, a, backspace, d, e, tab, enter
