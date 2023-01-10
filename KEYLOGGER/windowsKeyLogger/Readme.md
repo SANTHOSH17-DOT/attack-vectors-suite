@@ -21,4 +21,4 @@ cd attack-vectors-suite\KEYLOGGER\windowsKeyLogger
 
   ![step3](https://user-images.githubusercontent.com/60394916/211580541-6121e4dd-b167-4822-ad83-6c424c11cad3.PNG)
 
-  * The columns are key name, scan code, and time
+  * The columns are key name, scan code, and time. 
