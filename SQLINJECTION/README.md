@@ -1,10 +1,9 @@
 # SQL Injections
 
-By taking advantage of programme flaws, SQL Injection attacks (also known as SQLi) change SQL queries and inject malicious code.
+### By taking advantage of programme flaws, SQL Injection attacks (also known as SQLi) change SQL queries and inject malicious code.
 
 
-SQL Injection is a vulnerability where an application takes input from a user and doesn't vaildate that the user's input doesn't contain additional SQL
-
+### SQLi is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It generally allows an attacker to view data that they are not normally able to retrieve. An SQLi involves giving input to the SQL query that is not simply data, but an SQL query in itself. 
 
 ## Impacts
 
@@ -27,7 +26,27 @@ Here this is the web page that is connected to the backend database to fetch the
 
 ![imagea][def]
 
+Now to exploit this , a clever person can use some SQL query instead of a normal answer and one potential way could be by using '1'='1' argument in the
+
+query , it is shown below 
+
+#### ( note that the default user input is taken in string fashion that is if xxxx is input the query takes it as 'xxxx' )
+So if one gives the input as hello' or '1' = '1 to the query it looks like
+
+''' 'hello' or '1' = '1' and as the or condition of '1'='1'  '''  is always **true** .
+
+![imageb][defb]
+
+
+#### Hence the  query renders all the information of trhe database and hence we are successful in exploiting it :) 
+
+![imagec][defc]
 
 
 
-[def]:~/attack-vectors-suite/assets/html-sql-injection.png
+
+[def]:https://github.com/bhumirao/attack-vectors-suite/blob/main/assets/html-sql-injection.png
+
+[defb]:https://github.com/bhumirao/attack-vectors-suite/blob/main/assets/sql-2.png
+
+[defc]:https://github.com/bhumirao/attack-vectors-suite/blob/main/assets/sql-3.png
