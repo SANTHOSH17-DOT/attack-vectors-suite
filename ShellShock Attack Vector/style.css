@@ -1,0 +1,37 @@
+body{
+    background-image: url(Backimg.png);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    
+    margin-top: 6.25em;
+    margin-left: 6.25em;
+    margin-right: 6.25em;
+    margin-bottom: 6.25em;
+
+}
+h3{
+    font-size: 1.75em;
+    color: gold
+}
+.main{
+    margin-top: 3.15em;
+}
+h1{
+    font-size: 3em;
+    color: white;
+    font-stretch: extra-expanded;
+    text-decoration-line: underline;
+}
+p{
+    font-size: 1.15em;
+    color:#FFF685
+}
+td{
+    font-size: 1.15em;
+    color:#FFF685
+}
+h4{
+    font-size: 1.25em;
+    color: purple
+}
