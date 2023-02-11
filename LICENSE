@@ -1,6 +1,6 @@
- <h1>
+ <h1 id="color:black">
 MIT License</h1>
-<strong>
+<strong id="color:red;">
 Copyright (c) 2022 Santhosh</strong>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
