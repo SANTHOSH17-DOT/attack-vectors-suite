@@ -5,7 +5,7 @@ Buffer Overflow
 
 📌 A buffer overflow occurs when a program writes more data to a memory buffer than its capacity, leading to the overwriting of adjacent memory. 
 
-📌 This can be prevented by adding bounds checks to flag or discard excess data
+📌 This can be prevented by adding bounds checks to flag or discard excess data.
 
   
 
@@ -82,3 +82,15 @@ Three common protections are :
 
 📌 Bounds checking at runtime can also help prevent buffer overrun by ensuring that data written to a buffer is within acceptable limits.
 
+
+* * *
+
+### 👉 Important Keyword and Info 
+
+📌 ASLR - "Address space layout randomization"
+
+📌 PERL - "Practical Extraction and Reporting Language used for system administration, networking, and other applications that involve user interfaces"
+
+📌 SEHOP - "SEHOP is a exploit protection feature of Windows 10 that helps prevent malicious code from attacking Structured Exception Handling"
+
+📌 One of the most famous attacks of buffer overflow are [SQL Slammer](https://en.wikipedia.org/wiki/SQL_Slammer) and [The Morris Worm](https://en.wikipedia.org/wiki/Morris_worm)🧐
