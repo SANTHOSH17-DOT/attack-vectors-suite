@@ -1,7 +1,7 @@
 TCP attacks
 ===========
 
-### 🔵 What is TCP Attack?
+### 🔵 What is TCP Attack ?
 
 📌 The TCP Reset Attack is a method of disrupting communication by sending fake TCP reset packets to a host.
 
@@ -9,7 +9,7 @@ TCP attacks
 
 * * *
 
-### 🔵 How or TCP Attack Works
+### 🔵 How a TCP Attack Works ?
 
 📌 In a normal TCP connection, the sending computer sends a TCP reset packet (RST) to the receiving computer if it's not actively listening for communication.
 
@@ -24,7 +24,7 @@ TCP attacks
 
 📌 Servers are still vulnerable to SYN flood attacks despite the improved management of resources in current operating systems.
 
-📌 Common mitigation techniques include micro blocks, SYN cookies, RST cookies, and stack tweaking. 
+📌 Common mitigation techniques include micro blocks, SYN cookies, RST cookies and stack tweaking. 
 
 📌 Micro blocks allocate a small record in memory for each incoming request, SYN cookies involve responding to requests with a SYN-ACK but dropping the SYN from memory, RST cookies send an invalid SYN-ACK to verify requests, and stack tweaking involves modifying TCP stacks to drop incoming connections or release memory. 
 
@@ -34,7 +34,7 @@ TCP attacks
 
 ### 🔵 Background
 
-📌 The Internet is a global network of computers that communicate with each other using protocols like IP, TCP, and UDP. 
+📌 The Internet is a global network of computers that communicate with each other using protocols like IP, TCP and UDP. 
 
 📌 The Internet Protocol (IP) is the foundation for data transfer on the Internet, while the Transmission Control Protocol (TCP) is used to establish a two-way, reliable communication between devices.
 
@@ -43,5 +43,7 @@ TCP attacks
 📌 This protocol provides a reliable connection-oriented transfer, which is useful for large files like video clips or email attachments. 
 
 📌 Web browsing also uses TCP/IP to ensure the reliable transfer of web pages, even if they are small enough to fit in a single packet.
+
+📌 FUN FACT😃 - When we see a message of "Session expired" on a banking site or college site, then it is beacause long duration connection make sites more vulnerable to attacks. 
 
 * * *
