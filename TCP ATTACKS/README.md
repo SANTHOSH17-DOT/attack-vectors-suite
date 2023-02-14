@@ -44,4 +44,10 @@ TCP attacks
 
 📌 Web browsing also uses TCP/IP to ensure the reliable transfer of web pages, even if they are small enough to fit in a single packet.
 
+<<<<<<< Updated upstream
+=======
+📌 FUN FACT - When we see a message of "Session expired" on a banking site or college site, then it is beacause long duration connection make sites more vulnerable to attacks. 
+
+
+>>>>>>> Stashed changes
 * * *
