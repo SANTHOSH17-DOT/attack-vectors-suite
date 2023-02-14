@@ -93,4 +93,4 @@ Three common protections are :
 
 📌 SEHOP - "SEHOP is a exploit protection feature of Windows 10 that helps prevent malicious code from attacking Structured Exception Handling"
 
-📌 One of the most famous attacks of buffer overflow are [SQL Slammer](https://en.wikipedia.org/wiki/SQL_Slammer) and [The Morris Worm](https://en.wikipedia.org/wiki/Morris_worm)🧐
+📌 One of the most famous attacks of buffer overflow are [SQL Slammer](https://en.wikipedia.org/wiki/SQL_Slammer) and [The Morris Worm](https://en.wikipedia.org/wiki/Morris_worm)
