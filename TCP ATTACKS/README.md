@@ -1,7 +1,7 @@
 TCP attacks
 ===========
 
-### 🔵 What is TCP Attack?
+### 🔵 What is TCP Attack ?
 
 📌 The TCP Reset Attack is a method of disrupting communication by sending fake TCP reset packets to a host.
 
@@ -9,7 +9,7 @@ TCP attacks
 
 * * *
 
-### 🔵 How or TCP Attack Works
+### 🔵 How a TCP Attack Works ?
 
 📌 In a normal TCP connection, the sending computer sends a TCP reset packet (RST) to the receiving computer if it's not actively listening for communication.
 
@@ -43,5 +43,8 @@ TCP attacks
 📌 This protocol provides a reliable connection-oriented transfer, which is useful for large files like video clips or email attachments. 
 
 📌 Web browsing also uses TCP/IP to ensure the reliable transfer of web pages, even if they are small enough to fit in a single packet.
+
+📌 FUN FACT - When we see the message "Session expired" on a banking or university site, it is because long-term connections make sites more vulnerable to attacks. 
+
 
 * * *
