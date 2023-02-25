@@ -41,7 +41,7 @@ Cross-Site Scripting (XSS)
 
 - I will try to simulate a XSS attack with the help of a lab and will show how to use some of the above mentioned attack vectors in practice.
 
-                     Lab link : http://bit.ly/3IV6EEq
+      Lab link : http://bit.ly/3IV6EEq
 
 
 - The lab is a blog website with a XSS prone Search Bar. (All these are examples of Reflected XSS )
@@ -53,7 +53,7 @@ Cross-Site Scripting (XSS)
 
 - A script tag can reference external JavaScript code or you can embed the code within the script tag itself.
 
-        The Javascript code used here is <script>alert(1)</script>
+         The Javascript code used here is <script>alert(1)</script>
 
 
 ![WhatsApp Image 2023-02-25 at 10 13 12 PM (1)](https://user-images.githubusercontent.com/77486870/221369216-68f896b5-6c40-47cd-8648-588cb4c8fd02.jpeg)
@@ -66,7 +66,7 @@ Cross-Site Scripting (XSS)
 
 - IFrames are still very effective for pulling off phishing attacks.
 
-       The Javascript code used here is <iframe src="" onload=alert(0)>
+        The Javascript code used here is <iframe src="" onload=alert(0)>
 
 ![WhatsApp Image 2023-02-25 at 10 13 13 PM (3)](https://user-images.githubusercontent.com/77486870/221369400-53f7df2f-8243-400b-9894-fcc140145139.jpeg)
 
@@ -76,7 +76,7 @@ Cross-Site Scripting (XSS)
 
 - Some browsers execute JavaScript found in the \<img> attributes.
 
-       The Javascript code used here is <img src="" onerror=alert(1)>
+        The Javascript code used here is <img src="" onerror=alert(1)>
 
 ![WhatsApp Image 2023-02-25 at 10 13 13 PM (5)](https://user-images.githubusercontent.com/77486870/221369463-b899efcd-2702-429f-9104-c3daeaff2a89.jpeg)
 
@@ -86,7 +86,7 @@ Cross-Site Scripting (XSS)
 
 - Just like \<img> tag we can also use \<svg> tag in order to execute a XSS attack.
 
-       The Javascript code used here is <svg src="" onload=alert(1)>
+        The Javascript code used here is <svg src="" onload=alert(1)>
 
 ![WhatsApp Image 2023-02-25 at 10 13 13 PM (1)](https://user-images.githubusercontent.com/77486870/221369329-bb767070-b258-4a5d-a908-0aeb298ff5ad.jpeg)
 
@@ -98,7 +98,7 @@ Cross-Site Scripting (XSS)
 
 - This is a very popular XSS attack vector.
 
-       The Javascript code used here is "onmouseover="alert(1)
+        The Javascript code used here is "onmouseover="alert(1)
 
 
 ![WhatsApp Image 2023-02-25 at 10 13 13 PM (7)](https://user-images.githubusercontent.com/77486870/221369536-e2710336-deaf-4612-9143-3bd6d5effe66.jpeg)
