@@ -41,7 +41,7 @@ Cross-Site Scripting (XSS)
 
 - I will try to simulate a XSS attack with the help of a lab and will show how to use some of the above mentioned attack vectors in practice.
 
-      Lab link : http://bit.ly/3IV6EEq
+  Lab link : http://bit.ly/3IV6EEq
 
 
 - The lab is a blog website with a XSS prone Search Bar. (All these are examples of Reflected XSS )
