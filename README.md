@@ -41,12 +41,7 @@ This repository contains a collection of cybersecurity attack vectors. I firmly 
 
 - Contributions are always welcome!
 
-- Create a new directory for the next attack vector.
-
-- See CONTRIBUTING.md for ways to get started.
-
-- Please adhere to this project's CODE_OF_CONDUCT.md.
-
+If you think that you can add a new feature/method or want to fix a bug, we invite you to contribute to attack-vectors-suite and make this project better. To start contributing, follow the steps given on Contributing.md
 
 <h1 align=center> Project Admin 💻</h1>
 
