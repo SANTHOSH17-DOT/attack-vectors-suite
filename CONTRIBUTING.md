@@ -16,12 +16,89 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
 
 ## Submitting a pull request
 
-1. [Fork][fork] and clone the repository.
-1. Configure and install the dependencies
-1. Create a new branch: `git checkout -b my-branch-name`.
-1. Make your change, add tests, and make sure the tests still pass.
-1. Push to your fork and [submit a pull request][pr].
-1. Pat your self on the back and wait for your pull request to be reviewed and merged.
+1. Create a folder at your desire location (usually at your desktop).
+
+2. Open Git Bash Here
+
+
+3. [Fork](https://github.com/SANTHOSH17-DOT/attack-vectors-suite) the project. Click on the <a href="https://github.com/SANTHOSH17-DOT/attack-vectors-suite/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="15" width="15"></a> icon in the top right to get started.
+
+4. Clone your forked repository of project.
+
+```bash
+git clone https://github.com/SANTHOSH17-DOT/attack-vectors-suite.git
+```
+
+5. Navigate to the project directory.
+
+```bash
+cd attack-vectors-suite
+```
+
+6. Add a reference(remote) to the original repository.
+
+```bash
+git remote add upstream https://github.com/SANTHOSH17-DOT/attack-vectors-suite.git
+```
+
+7. Check the remotes for this repository.
+
+```bash
+git remote -v
+```
+
+8. Always take a pull from the upstream repository to your main branch to keep it updated as per the main project repository.
+
+```bash
+git pull upstream main
+```
+
+9. Create a new branch(prefer a branch name that relates to your assigned issue).
+
+```bash
+git checkout -b <YOUR_BRANCH_NAME>
+```
+
+10. Perform your desired changes to the code base.
+
+11. Check your changes.
+
+```bash
+git status
+```
+
+```bash
+git  diff
+```
+
+12. Stage your changes.
+
+```bash
+git add . <\files_that_you_made_changes>
+```
+
+13. Commit your changes.
+
+```bash
+git commit -m "Commit Message"
+```
+
+14. Push the committed changes in your feature branch to your remote repository.
+
+```bash
+git push -u origin <your_branch_name>
+```
+
+15. To create a pull request, click on `compare and pull requests`.
+
+16. Add an appropriate title and description to your PR explaining your changes.
+
+17. Click on `Create pull request`.
+
+Congratulations🎉, you have made a PR to the attack-vectors-suite.
+Wait for your submission to be accepted and your PR to be merged by a maintainer.
+
+- Please adhere to this project's CODE_OF_CONDUCT.md and CONTRIBUTING.md guidelines.
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
