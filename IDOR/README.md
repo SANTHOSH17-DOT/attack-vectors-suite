@@ -40,7 +40,22 @@ have access to.
  ![2023-03-01 20_12_00-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222184331-6a306830-0a2b-4630-a92d-bd2e4160a530.png)
 
 - After a little conversation if we try to do download our transcript by clicking on the "View Transcript" option, and we catch this request in the Burp.
+![2023-03-02 20_48_28-Insecure direct object references — Mozilla Firefox](https://user-images.githubusercontent.com/125211284/222491186-1c263b52-4623-4ad8-80c6-45841b419ebe.png)
+![2023-03-02 20_50_40-Insecure direct object references — Mozilla Firefox](https://user-images.githubusercontent.com/125211284/222491208-84c10d9e-fe7b-4ae8-89f9-d7555dc71a17.png)
+![2023-03-02 21_18_35-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491224-b8b2450f-3647-47f6-a19a-a4852a8b2647.png)
 
+![2023-03-02 21_18_54-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491238-c967a850-96ca-42f3-a120-c24999e082e9.png)
+![2023-03-02 21_20_15-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491263-ef60474c-0b76-48e7-b33e-148eb85a8d07.png)
+![2023-03-02 21_21_51-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491285-328d4652-df21-4e07-84c0-715dc31b0b89.png)
+![2023-03-02 21_22_46-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491291-f66022e9-3a26-49bf-9314-539a832d8b2a.png)
+![2023-03-02 21_23_08-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491308-c4eb29b1-5bc2-48c8-b76b-894b450879d7.png)
+![2023-03-02 21_23_40-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491330-5c40fad4-2e80-4c68-a164-ba231ec99916.png)
+![2023-03-02 21_24_16-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491338-350f4d4d-1a9d-499f-b3f9-6b9e9ec8a5cb.png)
+![2023-03-02 21_25_25-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491343-c65c6ad3-3f40-4f94-b20a-e0f1c88d816c.png)
+![2023-03-02 21_32_37-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491355-620eca74-a4e0-4ff3-b0a3-431a34277680.png)
+![2023-03-02 21_33_39-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491367-b352d40d-2088-4a6e-8fde-7981dd7d1a53.png)
+![2023-03-02 21_35_10-Kali  Running  - Oracle VM VirtualBox](https://user-images.githubusercontent.com/125211284/222491373-fb93bb1d-a635-4943-a2cc-164520fcbf5b.png)
+![IDOR1](https://user-images.githubusercontent.com/125211284/222491379-596536ca-d18d-4c23-b49f-36523ca43b9c.png)
 
 - Here we can see all the conversation in the request, we just forward this request.
 
