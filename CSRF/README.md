@@ -41,6 +41,7 @@ Cross Site Request Forgery (CSRF)
 
 - After accessing the lab we will go to to "My Account" option as shown in the below image.
 
+  ![1](https://user-images.githubusercontent.com/125211284/222327887-5382c713-3e66-4e8c-8a88-339d8ac61b0b.png)
 
 - We will be shown a login page just like the one shown below
         
@@ -71,6 +72,16 @@ Cross Site Request Forgery (CSRF)
 - We will see the email has been changed to 
 
         hacker@gmail.com
+
+
+![2](https://user-images.githubusercontent.com/125211284/222327896-f49c9645-5f7e-405e-b355-744eb7d33aa0.png)
+![3 ](https://user-images.githubusercontent.com/125211284/222327924-936822fe-0b6f-4196-8a0c-39bf7dc72cf3.png)
+![4](https://user-images.githubusercontent.com/125211284/222327926-9cf19542-c303-4412-967f-f1f520185078.png)
+![5](https://user-images.githubusercontent.com/125211284/222327932-14f9e8dc-b335-4bf0-bb13-6ab9108f6cf9.png)
+
+![6](https://user-images.githubusercontent.com/125211284/222327936-614898dc-b66e-4c76-a492-f478e11038f0.png)
+![7](https://user-images.githubusercontent.com/125211284/222327940-057c7c13-fe83-4718-8653-bd511a45b29f.png)
+![8](https://user-images.githubusercontent.com/125211284/222327942-f47fd8db-f052-450c-a4af-bfe03a9fa226.png)
 
 #
 ## How to prevent CSRF??
