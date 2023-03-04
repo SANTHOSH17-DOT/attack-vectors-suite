@@ -11,7 +11,7 @@ git clone https://github.com/SANTHOSH17-DOT/attack-vectors-suite.git
 ```bash
 cd attack-vectors-suite\REVERSESHELL
 ```
-  3. run `pip install requirements.txt`
+  3. run `pip install -r requirements.txt`
   4. run `python3 server.py 0.0.0.0 9999`
   * Once you press enter the server starts:
 ![server](https://user-images.githubusercontent.com/60394916/220286770-9a048bf1-2aad-496c-9ebe-d95fc293dc9d.PNG)
@@ -22,3 +22,18 @@ cd attack-vectors-suite\REVERSESHELL
   * Let's go back to the attacker's terminal and we should see a shell:
 
 ![server1](https://user-images.githubusercontent.com/60394916/220287544-2c4b5574-f780-4ed8-a28e-4bdef6a3ee17.PNG)
+
+
+Current abilities:
+
+- [x] Supports only one connection from a victim
+- [x] Able to run basic commands on the victim, e.g ls, pwd, whomai
+- [x] Able to close connection on the victim
+
+
+Areas of improvement:
+
+- [ ] Support connections from multiple victims
+- [ ] Get off the local network. Now, it only works when both attacker and victim are on the same network.
+- [ ] Enable encryption
+- [ ] Fix the output format from the victim machine
