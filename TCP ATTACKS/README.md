@@ -29,8 +29,7 @@ TCP attacks
 📌 All of these strategies require the ability to handle high volume DDoS attacks in the Gigabit range.
 
 * * *
-
-### 🔵 Background
+ 🔵 Background
 
 📌 The Internet is a global network of computers that communicate with each other using protocols like IP, TCP, and UDP. 
 
