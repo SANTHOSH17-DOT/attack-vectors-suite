@@ -7,9 +7,8 @@ TCP attacks
 
 📌 This common attack on the Internet often targets non-cooperative websites and can be used to launch DDoS attacks.
 
-* * *
 <img src="https://mazebolt.com/wp-content/uploads/2023/01/syn_ack_flood_1.gif">
-### 🔵 How a TCP Attack Works ?
+🔵 How a TCP Attack Works ?
 
 📌 In a normal TCP connection, the sending computer sends a TCP reset packet (RST) to the receiving computer if it's not actively listening for communication.
 
@@ -18,9 +17,8 @@ TCP attacks
 📌 However, in a TCP Reset Attack, the sending computer sends a fake RST packet to disrupt communication.
   
 
-* * *
 
-### 🔵 How to mitigate such an attack ?
+ 🔵 How to mitigate such an attack ?
 
 📌 Servers are still vulnerable to SYN flood attacks despite the improved management of resources in current operating systems.
 
