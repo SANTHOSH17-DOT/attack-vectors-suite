@@ -1,15 +1,15 @@
 TCP attacks
 ===========
 
-### 🔵 What is TCP Attack ?
+ 🔵 What is TCP Attack ?
 
 📌 The TCP Reset Attack is a method of disrupting communication by sending fake TCP reset packets to a host.
 
 📌 This common attack on the Internet often targets non-cooperative websites and can be used to launch DDoS attacks.
 
 * * *
-
-### 🔵 How a TCP Attack Works ?
+<img src="https://mazebolt.com/wp-content/uploads/2023/01/syn_ack_flood_1.gif">
+🔵 How a TCP Attack Works ?
 
 📌 In a normal TCP connection, the sending computer sends a TCP reset packet (RST) to the receiving computer if it's not actively listening for communication.
 
@@ -20,7 +20,7 @@ TCP attacks
 
 * * *
 
-### 🔵 How to mitigate such an attack ?
+🔵 How to mitigate such an attack ?
 
 📌 Servers are still vulnerable to SYN flood attacks despite the improved management of resources in current operating systems.
 
@@ -32,7 +32,7 @@ TCP attacks
 
 * * *
 
-### 🔵 Background
+🔵 Background
 
 📌 The Internet is a global network of computers that communicate with each other using protocols like IP, TCP, and UDP. 
 
